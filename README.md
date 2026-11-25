@@ -8,4 +8,12 @@ A program that writes one 1024x1024 newspaper image summing up the world's news 
 
 Run it with `MAKEFUN_OUTPUT_DIR=out python3 main.py`.
 
+## Stories on the page
+
+1. Shenzhou-24 docks with Tiangong — Pakistan's Muhammad Zeeshan Ali is the first foreigner aboard China's station.
+2. Two oil tankers hit naval mines in the Strait of Hormuz, Iran's Revolutionary Guards say.
+3. Solomon Islands signs a security treaty with Australia and bars foreign military bases.
+4. A New York jury convicts Huawei of bank fraud and trade-secret conspiracy.
+5–40. Markets (Nikkei −2.78%, Dow's first close above 50,000), leaked Russian war-death data, the Cartagena hostage rescue, Senegal's restored Africa Cup title, the Cikande factory-fire investigation, and 30 more dated briefs across seven regions.
+
 Referral code: T7714G
